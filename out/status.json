@@ -1,8 +1,8 @@
 {
- "ok": 777,
- "missing": 3,
+ "ok": 1105,
+ "missing": 5,
  "errors": 0,
  "todo_at_start": 6592,
- "time": "2026-11-15 21:47:04",
- "shards": 2
+ "time": "2026-11-15 22:09:37",
+ "shards": 3
 }
