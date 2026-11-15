@@ -19,3 +19,5 @@
 {"rq_id": "F|2308.09351", "gid": "D2023-s3-0568", "row": 171507, "arxiv": "2308.09351", "why": "ok"}
 {"rq_id": "F|2204.12223", "gid": "D2022-s3-0348", "row": 157710, "arxiv": "2204.12223", "why": "ok"}
 {"rq_id": "F|2210.12079", "gid": "D2022-s3-0180", "row": 77359, "arxiv": "2210.12079", "why": "error FileNotFoundError"}
+{"rq_id": "F|2208.10842", "gid": "D2022-s3-0270", "row": 161203, "arxiv": "2208.10842", "why": "error NotADirectoryError"}
+{"rq_id": "F|2210.12079", "gid": "D2022-s3-0180", "row": 77359, "arxiv": "2210.12079", "why": "error FileNotFoundError"}
